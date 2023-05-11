@@ -1,2 +1,1 @@
-# yusuffikri.github.io
-Creating my personal portfolio using ReactJS and MUI.
+<!doctype html><html lang="en"><head><meta charset="UTF-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><meta name="viewport" content="width=device-width,initial-scale=1"/><link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&family=Poppins:ital,wght@0,500;0,600;1,600&display=swap" rel="stylesheet"/><title>Yusuf Fikri Mustanir | Frontend Web Developer</title><script defer="defer" src="/static/js/main.2efdbba8.js"></script><link href="/static/css/main.482a3aeb.css" rel="stylesheet"></head><body><div id="overlay"></div><div id="root"></div></body></html>
